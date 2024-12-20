@@ -1,0 +1,45 @@
+Sure, here are the questions:
+
+1. **Find the Largest Number in an Array**:
+    - Write a program to find and print the largest number in a given array.
+
+2. **Sum of All Elements in an Array**:
+    - Write a program to calculate and print the sum of all elements in a given array.
+
+3. **Reverse an Array**:
+    - Write a program to reverse a given array and print the reversed array.
+
+4. **Check if an Array Contains a Specific Value**:
+    - Write a program to check if a specific value exists in a given array and print a message indicating whether it is present or not.
+
+5. **Remove Duplicates from an Array**:
+    - Write a program to remove duplicate values from a given array and print the array with unique values.
+7.Find the Second Largest Number in an Array:
+   -Write a program to find and print the second largest number in a given array.
+8.Count Occurrences of a Specific Value in an Array:
+
+Write a program to count and print the number of times a specific value appears in a given array.
+Find the Minimum and Maximum in an Array:
+
+Write a program to find and print both the minimum and maximum values in a given array.
+Merge Two Sorted Arrays:
+
+Write a program to merge two sorted arrays into a single sorted array.
+Rotate an Array:
+
+Write a program to rotate the elements of an array by a given number of positions to the left or right.
+Find the Intersection of Two Arrays:
+
+Write a program to find and print the intersection of two given arrays (i.e., common elements).
+Find Missing Number in a Sequence:
+
+Write a program to find and print the missing number in a given array containing a sequence of numbers.
+Find the Pair with the Given Sum in an Array:
+
+Write a program to find and print all pairs of elements in a given array that sum up to a specific value.
+Find the Longest Increasing Subsequence in an Array:
+
+Write a program to find and print the longest increasing subsequence in a given array.
+Rearrange an Array in Alternating Positive and Negative Items:
+
+Write a program to rearrange the elements of a given array so that positive and negative numbers alternate.    

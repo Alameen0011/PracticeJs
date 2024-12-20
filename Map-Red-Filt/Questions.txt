@@ -1,0 +1,5 @@
+Map, Filter, and Reduce:
+
+Given an array of numbers, write a function that returns a new array with each number squared.
+Write a function that filters out all odd numbers from an array.
+Use the reduce method to find the sum of all elements in an array.
